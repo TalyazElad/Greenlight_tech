@@ -77,7 +77,7 @@ header nav ul li a:hover {
 }
 
 .hero-content {
-    background: rgba(0, 0, 0, 0.5); /* Black background with opacity */
+    background: rgba(0, 0, 0, 0.7); /* Darker background with more opacity */
     padding: 20px;
     border-radius: 10px;
 }
